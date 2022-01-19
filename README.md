@@ -1,4 +1,4 @@
-#### ECG-ARITMIA-PREDICT-CNN
+#### percobaan_aritmia_cnn_bih.ipynb
 
 reference:
 
